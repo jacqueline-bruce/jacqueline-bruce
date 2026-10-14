@@ -21,8 +21,7 @@ I am fully equipped and enthusiastic about completing live coding exercises, tec
 ---
 
 ### 📬 Connect With Me
-*   **LinkedIn:** [://linkedin.com](https://://linkedin.com)
-*   **Email:** jacquelinebruce2012@gmail.com
+*   **LinkedIn:** [linkedin.com/in/jacquelinebruce](https://linkedin.com/in/jacquelinebruce)
 
 <!--
 **jacqueline-bruce/jacqueline-bruce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
